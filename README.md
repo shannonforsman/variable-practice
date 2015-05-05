@@ -45,8 +45,8 @@ var who;
 #7
 var a = "25";
 var b = 30;
-c = a + b;
-d = b - a;
+var c = a + b;
+var d = b - a;
 
 // What is the value of c?
 // What is the value of d?
