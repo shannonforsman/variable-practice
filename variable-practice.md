@@ -39,4 +39,14 @@ c = a + b;
 
 #6
 var who;
+
 // What is the value of who?
+
+#7
+var a = "25";
+var b = 30;
+c = a + b;
+d = b - a;
+
+// What is the value of c?
+// What is the value of d?
